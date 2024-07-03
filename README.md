@@ -22,7 +22,7 @@ Welcome to the Tic-Tac-Toe Q-Learning project! This repository contains a Python
 
 You can also run the project directly in your browser using Google Colab. The Colab notebook contains all the code and explanations.
 
-[Open in Colab](https://colab.research.google.com/github/vishal815/Tictactoe_q_learing_ML/blob/main/tictactoe_q.ipynb)
+[Open in Colab and Play](https://colab.research.google.com/github/vishal815/Tictactoe_q_learing_ML/blob/main/tictactoe_q.ipynb)
 
 ## Installation
 
@@ -30,26 +30,6 @@ You can also run the project directly in your browser using Google Colab. The Co
     ```bash
     git clone https://github.com/vishal815/Tictactoe_q_learing_ML.git
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd Tictactoe_q_learing_ML
-    ```
-3. Install the required dependencies (if any):
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-1. Run the main script to start the training process:
-    ```bash
-    python main.py
-    ```
-2. After training, you can play a game against the trained agent by running:
-    ```bash
-    python play_game.py
-    ```
-3. Follow the prompts to make your moves and see the agent's responses.
 
 ## Code Explanation
 
